@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 950px;
+    height: 558px;
+    margin: 0 auto;
+    padding: 20px 20px 20px 80px;
+    background: #d8d8d8;
+}
+.content{
+    margin: 20px 0 0;
+    height: 450px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    margin: 0 30px 30px 0;
+    border: 2px solid #000;
+    background-color: #fff;
+    position: relative;
+}
+button{
+    border: 1px solid #000;
+    box-shadow: 1px 1px 2px #000;
+    background-color: green;
+    color: #fff;
+    padding: 2px 10px 3px 10px;
+    vertical-align: bottom;
+}
